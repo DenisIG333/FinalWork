@@ -22,4 +22,9 @@ string[] arrayFinal = new string[ArrayStr.Length];
 
 int pos = 0;
 
+for (int i = 0; i < ArrayStr.Length; i++)
+{
+    
+}
+
 
