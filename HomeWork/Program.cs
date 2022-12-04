@@ -20,4 +20,6 @@
 string[] ArrayStr = new string[] { "Hello", "2", "world", ":-", "Denmark", "1234", "4", "ok", "yes" };
 string[] arrayFinal = new string[ArrayStr.Length];
 
+int pos = 0;
+
 
