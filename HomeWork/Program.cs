@@ -31,4 +31,9 @@ for (int i = 0; i < ArrayStr.Length; i++)
     }
 }
 
+void PrintArray(string[] array)
+{
+    
+}
+
 
