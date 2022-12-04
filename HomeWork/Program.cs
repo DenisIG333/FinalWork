@@ -40,4 +40,6 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
+PrintArray(arrayFinal);
+
 
