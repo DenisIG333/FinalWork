@@ -24,7 +24,11 @@ int pos = 0;
 
 for (int i = 0; i < ArrayStr.Length; i++)
 {
-    
+    if (ArrayStr[i].Length <= 3)
+    {
+        arrayFinal[pos] = ArrayStr[i];
+        pos++;
+    }
 }
 
 
